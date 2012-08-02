@@ -6,4 +6,7 @@
 These are PCB files for the WizFi Shield for Arduino. The files were created in the free & low cost EagleCad software available form [here](http://www.cadsoftusa.com/download-eagle/?language=en).
 
 ## Software
-These are Arduino source code to test
+These are driver code of WizFi shield and test code
+
+## Documents
+Manual for WizFi shield
